@@ -1,5 +1,5 @@
 # Roulette
-Requirements: windows os, osnovno poznavanje engleskog jezika\
+Requirements: Windows OS, osnovno poznavanje engleskog jezika\
 Kako pokrenuti igru: preuzmite i pokrenite roulette.exe\
 Upisite svoje ime.\
 Pri odabiru oklade validni unosi su od 0 do 36 (ukljucivo) za oklade na individualne brojeve,\
